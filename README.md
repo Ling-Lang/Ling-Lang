@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Dylan or Jens
--    I'm currently in the Piscine for the 42 in Heilbronn
+-    I'm currently a Student at the 42 Heilbronn.
+---
+- Current Project I'm working on is libft for the 42 upload soon.
+- Side Project is a discord bot using python
 
   Thanks for coming to my TedTalk 
 <!---
