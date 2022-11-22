@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dylan or Jens
 -    I'm currently a Student at the 42 Heilbronn.
 ---
-- Current Project I'm working on is libft for the 42 upload soon.
-- Side Project is a discord bot using python
+- Current Project I'm working on is libft for the 42. Upload soon.
+- Side Project is a scret at the moment.
 ---
 
   Thanks for coming to my TedTalk 
