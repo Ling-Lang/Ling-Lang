@@ -2,7 +2,7 @@
 -    I'm currently a Student at the 42 Heilbronn.
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang"/>
-<img src="https://github-readme-stats.vercel.app/api?username={username}" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ling-Lang" />
 ---
 
   Thanks for coming to my TedTalk 
