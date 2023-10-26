@@ -2,7 +2,6 @@
 -    I'm currently a Student at the 42 Heilbronn.
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ling-Lang" />
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jkulka?1337Badge=off&UM6P=off" alt="jkulka's 42 stats" /></a>
 ---
 
