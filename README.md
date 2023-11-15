@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dylan or Jens
 -    I'm currently a Student at the 42 Heilbronn.
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang&hide=vim+script&exclude_repo=42_dev_env_scripts)
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang&exclude_repo=42_dev_env_scripts)"/>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang&exclude_repo=42_dev_env_scripts) -->
 ---
 
   Thanks for coming to my TedTalk 
