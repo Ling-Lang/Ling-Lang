@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dylan or Jens
 -    I'm currently a Student at the 42 Heilbronn.
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang&exclude_repo=42_dev_env_scripts"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang&exclude_repo=42_dev_env_scripts&layout=compact"/>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-Lang&exclude_repo=42_dev_env_scripts) -->
 ---
 
